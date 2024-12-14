@@ -4,7 +4,7 @@ SMS onay, bir kullanıcıyı doğrulamak veya kimlik doğrulama işlemini güven
 
 Bu yöntem, hesap güvenliğini artırır ve başkalarının izinsiz erişimini engeller. Örneğin, sosyal medya platformları, bankalar ve e-ticaret siteleri SMS onayı ile kullanıcı hesaplarını korur.
 
-SMS onay işlemlerinizde güvenli ve hızlı bir çözüm arıyorsanız, SMSOnaycim.net ile kişisel numaranızı paylaşmadan geçici numaralar üzerinden onay kodu alabilirsiniz. Gizliliğinizi koruyun, işlemlerinizi kolaylaştırın!
+SMS onay işlemlerinizde güvenli ve hızlı bir çözüm arıyorsanız, <a href="https://smsonaycim.net">SMSOnaycim.net</a> ile kişisel numaranızı paylaşmadan geçici numaralar üzerinden onay kodu alabilirsiniz. Gizliliğinizi koruyun, işlemlerinizi kolaylaştırın!
 
 
 
